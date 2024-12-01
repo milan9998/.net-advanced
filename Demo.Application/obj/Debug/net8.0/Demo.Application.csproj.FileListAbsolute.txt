@@ -1,0 +1,15 @@
+C:\Users\Milan\RiderProjects\Demo\Demo.Application\bin\Debug\net8.0\Demo.Application.deps.json
+C:\Users\Milan\RiderProjects\Demo\Demo.Application\bin\Debug\net8.0\Demo.Application.dll
+C:\Users\Milan\RiderProjects\Demo\Demo.Application\bin\Debug\net8.0\Demo.Application.pdb
+C:\Users\Milan\RiderProjects\Demo\Demo.Application\bin\Debug\net8.0\Demo.Domain.dll
+C:\Users\Milan\RiderProjects\Demo\Demo.Application\bin\Debug\net8.0\Demo.Domain.pdb
+C:\Users\Milan\RiderProjects\Demo\Demo.Application\obj\Debug\net8.0\Demo.Application.csproj.AssemblyReference.cache
+C:\Users\Milan\RiderProjects\Demo\Demo.Application\obj\Debug\net8.0\Demo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milan\RiderProjects\Demo\Demo.Application\obj\Debug\net8.0\Demo.Application.AssemblyInfoInputs.cache
+C:\Users\Milan\RiderProjects\Demo\Demo.Application\obj\Debug\net8.0\Demo.Application.AssemblyInfo.cs
+C:\Users\Milan\RiderProjects\Demo\Demo.Application\obj\Debug\net8.0\Demo.Application.csproj.CoreCompileInputs.cache
+C:\Users\Milan\RiderProjects\Demo\Demo.Application\obj\Debug\net8.0\Demo.App.371CD7EF.Up2Date
+C:\Users\Milan\RiderProjects\Demo\Demo.Application\obj\Debug\net8.0\Demo.Application.dll
+C:\Users\Milan\RiderProjects\Demo\Demo.Application\obj\Debug\net8.0\refint\Demo.Application.dll
+C:\Users\Milan\RiderProjects\Demo\Demo.Application\obj\Debug\net8.0\Demo.Application.pdb
+C:\Users\Milan\RiderProjects\Demo\Demo.Application\obj\Debug\net8.0\ref\Demo.Application.dll

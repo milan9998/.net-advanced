@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SAF8Bx/sSp4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Milan\\RiderProjects\\Demo\\Demo.Sdk\\Demo.Sdk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Milan\\.nuget\\packages\\refit\\8.0.0\\refit.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
